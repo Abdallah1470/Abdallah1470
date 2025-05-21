@@ -61,8 +61,13 @@
   Features include multi-platform authentication (email, Google, Facebook), real-time data with Firebase, and a responsive UI with Riverpod state management.  
   🌩️ Gained experience in cloud-based authentication and real-time data handling, applicable to securing cloud environments.
 
+- **🚦 [Traffic Light Controller using PIC16f877A](https://github.com/Abdallah1470/Traffic_light_controller)**  
+  An embedded system project designed to control traffic flow at an intersection using a PIC16F877A microcontroller.  
+  Features manual and automatic modes, countdown timers via 7-segment displays, and safe light transitions with a 3-second yellow interval.  
+  🔧 Strengthened my understanding of microcontroller programming, real-time control, and circuit interfacing, which is relevant to electronics and embedded system design.
+
 - **🧪 Networking Simulation (Academic Project)**  
-  Configured a small network using Cisco Packet Tracer, implementing routing and VLANs to understand network fundamentals, foundational for network security.
+  Configured a small network using Cisco Packet Tracer, implementing routing and VLANs to understand network fundamentals, which is foundational for network security.
 
 ---
 
