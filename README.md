@@ -9,13 +9,13 @@
 ---
 
 ## 📋 Table of Contents
-- [Currently Learning](#currently-learning)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [Future Goals](#future-goals)
-- [Contact](#contact)
-- [Interests](#interests)
+- [Currently Learning](#-currently-learning)
+- [Skills](#%EF%B8%8F-skills)
+- [Projects](#-projects)
+- [Certifications](#-certifications)
+- [Future Goals](-future-goals)
+- [Contact](#-contact)
+- [Interests](#-interests)
 
 ---
 
